@@ -1,0 +1,7 @@
+2025-12-03 00:48:05,392 - INFO - Loading CSV files from C:\campus_energy_dashboard\data
+2025-12-03 00:48:05,395 - INFO - Reading file: building_a.csv
+2025-12-03 00:48:05,843 - INFO - Reading file: building_b.csv
+2025-12-03 00:48:05,922 - INFO - Reading file: building_c.csv
+2025-12-03 00:48:06,106 - INFO - Combined data shape: (90, 3)
+2025-12-03 00:48:22,222 - INFO - Dashboard saved to C:\campus_energy_dashboard\output\dashboard.png
+2025-12-03 00:48:22,347 - INFO - Summary written to C:\campus_energy_dashboard\output\summary.txt

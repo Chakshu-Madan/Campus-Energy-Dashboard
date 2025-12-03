@@ -1,0 +1,7 @@
+Campus Energy Use – Executive Summary
+
+Total campus consumption: 11763.00 kWh
+Highest-consuming building: building_a (5460.00 kWh)
+Peak load time: 2024-01-30 00:00:00 in building_a (230.00 kWh)
+Average daily consumption (campus): 392.10 kWh
+Average weekly consumption (campus): 2352.60 kWh
